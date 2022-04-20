@@ -5,6 +5,9 @@ pip
 flask
 flask-sqlalchemy
 
+#db
+psycopg2
+
 #manipulation
 pandas
 numpy
